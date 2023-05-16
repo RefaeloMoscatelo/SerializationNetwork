@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializationNetwork", "SerializationNetwork\SerializationNetwork.csproj", "{DD5E79CE-5ED0-46ED-B985-200835149EE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listener", "Listener\Listener.csproj", "{811C699E-F011-4C55-9E3C-E656FF6BC7E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShareDLL", "ShareDLL\ShareDLL.csproj", "{622C96FF-3404-44D0-AD33-08CE7B33E061}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD5E79CE-5ED0-46ED-B985-200835149EE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD5E79CE-5ED0-46ED-B985-200835149EE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD5E79CE-5ED0-46ED-B985-200835149EE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD5E79CE-5ED0-46ED-B985-200835149EE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{811C699E-F011-4C55-9E3C-E656FF6BC7E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{811C699E-F011-4C55-9E3C-E656FF6BC7E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{811C699E-F011-4C55-9E3C-E656FF6BC7E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{811C699E-F011-4C55-9E3C-E656FF6BC7E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{622C96FF-3404-44D0-AD33-08CE7B33E061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{622C96FF-3404-44D0-AD33-08CE7B33E061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{622C96FF-3404-44D0-AD33-08CE7B33E061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{622C96FF-3404-44D0-AD33-08CE7B33E061}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
